@@ -1,6 +1,5 @@
-### USACO Hamming Codes Notes:
-[Problem Statement](https://train.usaco.org/usacoprob2?a=UWYfHlK0FqA&S=hamming)
-By Trua
+### USACO Hamming Codes Notes
+[Problem Statement Link](https://train.usaco.org/usacoprob2?a=UWYfHlK0FqA&S=hamming)
 
 Since we only have '**B**' bits, we know that the largest codeword that could be part of the answer is **2^B-1**.
 
@@ -30,3 +29,4 @@ We will have to compare **'next'** to all the values in **'num'.** If for all va
 then add 'next' to 'num' and recurse until we have **N** values in 'num'.
 
 Then print out the contents of **'num'**, and we are done.
+
