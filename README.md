@@ -26,6 +26,11 @@ My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usa
   
 | Problem  |      My Sol  |
 |--    | --|
-| blah blah blah          |  [blubble guppies](/Section%201.2/Your%20Ride%20Is%20Here/ride.java)   |
+| 1.3.1 Milking Cows         |  [Java Solution](/Section%201.3/Milking%20Cows/milk2.java)   |
+| 1.3.2 Transformations         |  [Java Solution](/Section%201.3/Transformations/transform.java)   |
+| 1.3.3 Name That Number         |  [Java Solution](/Section%201.3/Name%20That%20Number/namenum.java)   |
+| 1.3.4 Palindromic Squares         |  [Java Solution](/Section%201.3/Palindromic%20Squares/palsquare.java)   | 
+| 1.3.5 Dual Palindromes        |  [Java Solution](/Section%201.3/Dual%20Palindromes/dualpal.java)   | 
 
 </details>
+
