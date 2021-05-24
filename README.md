@@ -18,3 +18,14 @@ My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usa
 | 1.2.3 [Friday the Thirteenth](https://train.usaco.org/usacoprob2?a=JOFfbFzZIvB&S=friday)     |  [Java Solution](/Section%201.2/Friday%20the%20Thirteenth/friday.java)   |
 | 1.2.4 [Broken Necklace](https://train.usaco.org/usacoprob2?a=JOFfbFzZIvB&S=beads)            |  [Java Solution](/Section%201.2/Broken%20Necklace/beads.java)   |
 </details>
+
+<details>
+<summary>Section 1.3: </summary>
+ 
+  <br>
+  
+| Problem  |      My Sol  |
+|--    | --|
+| blah blah blah          |  [blubble guppies](/Section%201.2/Your%20Ride%20Is%20Here/ride.java)   |
+
+</details>
