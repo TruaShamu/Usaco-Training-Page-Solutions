@@ -34,3 +34,13 @@ My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usa
 
 </details>
 
+<details>
+<summary>Section 1.4: </summary>
+ 
+  <br>
+  
+| Problem  |      My Sol  |
+|--    | --|
+| 1.3.1 jello     |  [jello solution](/Section%201.3/Milking%20Cows/milk2.java)   |
+
+</details>
