@@ -4,6 +4,8 @@
 My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usacogate).
 
 
+## Chapter 1
+
 <details>
 <summary>Section 1.2: </summary>
  
