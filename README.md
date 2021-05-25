@@ -1,6 +1,6 @@
 
 # Usaco-Training-Page-Solutions ![cow](https://train.usaco.org/usaco/cowhead2.gif)
-My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usacogate).
+My submission code on the [Usaco Training Pages](https://train.usaco.org/usacogate).
 
 
 ## Chapter 1
