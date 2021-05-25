@@ -63,8 +63,8 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
   
 | Problem | My Sol |
 | -- | -- |
-| 1.6.1 [Number Triangles](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=numtri)      |  [Java Solution](/Section%201.5/Arithmetic%20Progressions/ariprog.java)  |
-| 1.6.2 [Prime Palindromes](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=pprime)     |  [Java Solution](/Section%201.5/Mother's%20Milk/milk3.java)              |
-| 1.6.3 [SuperPrime Rib](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=sprime)        |  [Java Solution](/Section%201.5/Mother's%20Milk/milk3.java)              |
+| 1.6.1 [Number Triangles](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=numtri)      |  [Java Solution](/Section%201.6/Number%20Triangles/numtri.java)  |
+| 1.6.2 [Prime Palindromes](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=pprime)     |  [Java Solution](/Section%201.6/Prime%20Palindromes/pprime.java) |
+| 1.6.3 [SuperPrime Rib](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=sprime)        |  [Java Solution](/Section%201.6/Superprime%20Rib/sprime.java)    |
 
 </details>
