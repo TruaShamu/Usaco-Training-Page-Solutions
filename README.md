@@ -45,6 +45,16 @@ My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usa
 | 1.4.5 [Wormholes](https://train.usaco.org/usacoprob2?a=zKUS1lbb1UL&S=wormhole)        |  [Java Solution](/Section%201.4/Wormholes/wormhole.java)         |
 | 1.4.6 [Ski Design](https://train.usaco.org/usacoprob2?a=zKUS1lbb1UL&S=skidesign)      |  [Java Solution](/Section%201.4/Ski%20Design/skidesign.java)     |
 
+</details>
+
+<details>
+<summary>Section 1.5: </summary>
+<br>
+  
+| Problem | My Sol |
+| -- | -- |
+| 1.5.1 [Mixing Milk](https://train.usaco.org/usacoprob2?a=zKUS1lbb1UL&S=milk)          |  [Java Solution](/Section%201.4/Mixing%20Milk/milk.java)         |
+| 1.5.2 [Barn Repair](https://train.usaco.org/usacoprob2?a=zKUS1lbb1UL&S=barn1)         |  [Java Solution](/Section%201.4/Barn%20Repair/barn1.java)        |
 
 
 </details>
