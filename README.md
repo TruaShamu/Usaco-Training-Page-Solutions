@@ -68,3 +68,20 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
 | 1.6.3 [SuperPrime Rib](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=sprime)        |  [Java Solution](/Section%201.6/Superprime%20Rib/sprime.java)    |
 
 </details>
+
+## Chapter 2
+
+<details>
+<summary>Section 2.1: </summary>
+<br>
+  
+| Problem | My Sol |
+| -- | -- |
+| 1.2.1 [The Castle](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=castle)                     |  [Java Solution](/Section%201.2/Your%20Ride%20Is%20Here/ride.java)      |
+| 1.2.2 [Ordered Fractions](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=frac1)               |  [Java Solution](/Section%201.2/Greedy%20Gift%20Givers/gift1.java)      |
+| 1.2.3 [Sorting A Three-Valued Sequence](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=sort3) |  [Java Solution](/Section%201.2/Friday%20the%20Thirteenth/friday.java)  |
+| 1.2.4 [Healthy Holsteins](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=holstein)            |  [Java Solution](/Section%201.2/Broken%20Necklace/beads.java)           |
+| 1.2.5 [Hamming Codes](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=hamming)                 |   [Java Solution](/Section%201.2/Broken%20Necklace/beads.java)           |
+</details>
+
+
