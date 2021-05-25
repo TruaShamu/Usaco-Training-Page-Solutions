@@ -77,11 +77,23 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
   
 | Problem | My Sol |
 | -- | -- |
-| 1.2.1 [The Castle](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=castle)                     |  [Java Solution](/Section%201.2/Your%20Ride%20Is%20Here/ride.java)      |
-| 1.2.2 [Ordered Fractions](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=frac1)               |  [Java Solution](/Section%201.2/Greedy%20Gift%20Givers/gift1.java)      |
-| 1.2.3 [Sorting A Three-Valued Sequence](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=sort3) |  [Java Solution](/Section%201.2/Friday%20the%20Thirteenth/friday.java)  |
-| 1.2.4 [Healthy Holsteins](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=holstein)            |  [Java Solution](/Section%201.2/Broken%20Necklace/beads.java)           |
-| 1.2.5 [Hamming Codes](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=hamming)                 |   [Java Solution](/Section%201.2/Broken%20Necklace/beads.java)           |
+| 2.1.1 [The Castle](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=castle)                     |  [Java Solution](/Section%202.1/The%20Castle/The%20Castle.java)      |
+| 2.1.2 [Ordered Fractions](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=frac1)               |  [Java Solution](/Section%202.1/Ordered%20Fractions/frac1.java)      |
+| 2.1.3 [Sorting A Three-Valued Sequence](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=sort3) |  [Java Solution](/Section%202.1/Sorting%20A%20Three-Valued%20Sequence/sort3.java)  |
+| 2.1.4 [Healthy Holsteins](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=holstein)            |  [Java Solution](/Section%202.1/Healthy%20Holsteins/holstein.java)           |
+| 2.1.5 [Hamming Codes](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=hamming)                 |   [Java Solution](/Section%202.1/Hamming%20Codes/Hamming%20Codes%202.java)           |
+</details>
+
+<details>
+<summary>Section 2.2: </summary>
+<br>
+  
+| Problem | My Sol |
+| -- | -- |
+| 2.2.1 [Preface Numbering](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=castle) |  [Java Solution](/Section%202.1/The%20Castle/The%20Castle.java)      |
+| 2.2.2 [Subset Sums](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=frac1)        |  [Java Solution](/Section%202.1/Ordered%20Fractions/frac1.java)      |
+| 2.2.3 [Runaround Numbers](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=sort3)  |  [Java Solution](/Section%202.1/Sorting%20A%20Three-Valued%20Sequence/sort3.java)  |
+| 2.2.4 [Party Lamps](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=holstein)     |  [Java Solution](/Section%202.1/Healthy%20Holsteins/holstein.java)           |
 </details>
 
 
