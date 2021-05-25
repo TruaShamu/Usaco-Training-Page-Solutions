@@ -122,4 +122,5 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
 | 2.4.5 [Fractions to Decimals](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=fracdec)   |  [Java Solution](https://github.com/)           |
 </details>
 
+## Chapter 3
 
