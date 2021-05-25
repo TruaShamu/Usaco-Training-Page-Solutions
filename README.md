@@ -1,6 +1,6 @@
 
 # Usaco-Training-Page-Solutions ![cow](https://train.usaco.org/usaco/cowhead2.gif)
-My submission code on the [Usaco Training Pages](https://train.usaco.org/usacogate).
+My submission code on the [Usaco Training Pages](https://train.usaco.org/usacogate). (WIP)
 
 
 ## Chapter 1
@@ -94,6 +94,32 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
 | 2.2.2 [Subset Sums](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=subset)          |  [Java Solution](/Section%202.2/Subset%20Sums/subset.java)          |
 | 2.2.3 [Runaround Numbers](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=runround)  |  [Java Solution](/Section%202.2/Runaround%20Numbers/runround.java)  |
 | 2.2.4 [Party Lamps](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=lamps)           |  [Java Solution](/Section%202.2/Party%20Lamps/lamps.java)           |
+</details>
+
+<details>
+<summary>Section 2.3: </summary>
+<br>
+  
+| Problem | My Sol |
+| -- | -- |
+| 2.3.1 [The Longest Prefix](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=prefix)      |  [Java Solution](https://github.com/)          |
+| 2.3.2 [Cow Pedigrees](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=nocows)           |  [Java Solution](https://github.com/)          |
+| 2.3.3 [Zero Sum](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=zerosum)               |  [Java Solution](https://github.com/)           |
+| 2.3.4 [Money Systems](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=money)            |  [Java Solution](https://github.com/)           |
+| 2.3.5 [Controlling Companies](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=concom)   |  [Java Solution](https://github.com/)           |
+</details>
+
+<details>
+<summary>Section 2.4: </summary>
+<br>
+  
+| Problem | My Sol |
+| -- | -- |
+| 2.4.1 [The Tamworth Two](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=ttwo)      |  [Java Solution](https://github.com/)          |
+| 2.4.2 [Overfencing](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=maze1)           |  [Java Solution](https://github.com/)          |
+| 2.4.3 [Cow Tours](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=cowtour)               |  [Java Solution](https://github.com/)           |
+| 2.4.4 [Bessie Come Home](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=comehome)            |  [Java Solution](https://github.com/)           |
+| 2.4.5 [Fractions to Decimals](https://train.usaco.org/usacoprob2?a=HS2piNoM6ik&S=fracdec)   |  [Java Solution](https://github.com/)           |
 </details>
 
 
