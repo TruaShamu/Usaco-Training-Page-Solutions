@@ -90,10 +90,10 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
   
 | Problem | My Sol |
 | -- | -- |
-| 2.2.1 [Preface Numbering](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=castle) |  [Java Solution](/Section%202.1/The%20Castle/The%20Castle.java)      |
-| 2.2.2 [Subset Sums](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=frac1)        |  [Java Solution](/Section%202.1/Ordered%20Fractions/frac1.java)      |
-| 2.2.3 [Runaround Numbers](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=sort3)  |  [Java Solution](/Section%202.1/Sorting%20A%20Three-Valued%20Sequence/sort3.java)  |
-| 2.2.4 [Party Lamps](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=holstein)     |  [Java Solution](/Section%202.1/Healthy%20Holsteins/holstein.java)           |
+| 2.2.1 [Preface Numbering](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=preface)   |  [Java Solution](/Section%202.2/Preface%20Numbering/preface.java)   |
+| 2.2.2 [Subset Sums](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=subset)          |  [Java Solution](/Section%202.2/Subset%20Sums/subset.java)          |
+| 2.2.3 [Runaround Numbers](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=runround)  |  [Java Solution](/Section%202.2/Runaround%20Numbers/runround.java)  |
+| 2.2.4 [Party Lamps](https://train.usaco.org/usacoprob2?a=sRHsEZ2YHxO&S=lamps)           |  [Java Solution](/Section%202.2/Party%20Lamps/lamps.java)           |
 </details>
 
 
