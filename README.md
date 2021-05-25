@@ -53,8 +53,19 @@ My problem submissions on the [Usaco Training Pages](https://train.usaco.org/usa
   
 | Problem | My Sol |
 | -- | -- |
-| 1.5.1 [Mixing Milk](https://train.usaco.org/usacoprob2?a=zKUS1lbb1UL&S=milk)          |  [Java Solution](/Section%201.4/Mixing%20Milk/milk.java)         |
-| 1.5.2 [Barn Repair](https://train.usaco.org/usacoprob2?a=zKUS1lbb1UL&S=barn1)         |  [Java Solution](/Section%201.4/Barn%20Repair/barn1.java)        |
+| 1.5.1 [Arithmetic Progressions](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=ariprog)  |  [Java Solution](/Section%201.5/Arithmetic%20Progressions/ariprog.java)  |
+| 1.5.2 [Mother's Milk](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=milk3)              |  [Java Solution](/Section%201.5/Mother's%20Milk/milk3.java)              |
 
+</details>
+
+<details>
+<summary>Section 1.6: </summary>
+<br>
+  
+| Problem | My Sol |
+| -- | -- |
+| 1.6.1 [Number Triangles](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=numtri)      |  [Java Solution](/Section%201.5/Arithmetic%20Progressions/ariprog.java)  |
+| 1.6.2 [Prime Palindromes](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=pprime)     |  [Java Solution](/Section%201.5/Mother's%20Milk/milk3.java)              |
+| 1.6.3 [SuperPrime Rib](https://train.usaco.org/usacoprob2?a=wzJFDqQ89Jg&S=sprime)        |  [Java Solution](/Section%201.5/Mother's%20Milk/milk3.java)              |
 
 </details>
