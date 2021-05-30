@@ -125,6 +125,7 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
 ## Chapter 3
 
 
-** Stringsobits
-** Riding the fences
-** job proccessing
+* Stringsobits
+* Riding the fences
+* job proccessing
+* street race
