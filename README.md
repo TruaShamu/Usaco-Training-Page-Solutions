@@ -129,3 +129,4 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
 * Riding the fences
 * job proccessing
 * street race
+* letter game
