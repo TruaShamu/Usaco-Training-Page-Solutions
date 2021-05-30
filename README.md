@@ -124,3 +124,5 @@ My submission code on the [Usaco Training Pages](https://train.usaco.org/usacoga
 
 ## Chapter 3
 
+
+** Stringsobits
